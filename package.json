@@ -1,0 +1,17 @@
+{
+  "name": "@zippie/theme-scripts",
+  "version": "1.0.0",
+  "description": "Zippie theming scripts",
+  "main": "index.js",
+  "author": "Mio Quispe <mio.quispe@zippie.org>",
+  "license": "ISC",
+  "sideEffects": false,
+  "bin": {
+    "theme-build": "index.js"
+  },
+  "dependencies": {
+    "bili": "^3.1.2",
+    "rollup-plugin-url": "^1.4.0",
+    "rollup-plugin-vue": "^4.3.2"
+  }
+}
