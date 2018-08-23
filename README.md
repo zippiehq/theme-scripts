@@ -1,4 +1,5 @@
 # Zippie theme scripts
+Exposes theme-build as a command inside your package.json when included
 ## Setup
 #### Add it to your theme package
 ```bash
