@@ -1,6 +1,6 @@
 {
   "name": "@zippie/theme-scripts",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Zippie theming scripts",
   "main": "index.js",
   "author": "Mio Quispe <mio.quispe@zippie.org>",
@@ -12,6 +12,7 @@
   "dependencies": {
     "bili": "^3.1.2",
     "rollup-plugin-url": "^1.4.0",
-    "rollup-plugin-vue": "^4.3.2"
+    "rollup-plugin-vue": "^4.3.2",
+    "yargs": "^12.0.1"
   }
 }
