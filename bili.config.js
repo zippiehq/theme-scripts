@@ -4,4 +4,10 @@ module.exports = {
     'vue',
     'url',
   ],
+  url: {
+    /**
+     * TODO: make external urls work
+     */
+    limit: 10000 * 1024,
+  },
 }
